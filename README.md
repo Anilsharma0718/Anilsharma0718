@@ -74,5 +74,27 @@ G.H. Raisoni College of Engineering
 
 ---
 
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anilsharma0718&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anilsharma0718&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+- **LinkedIn:** [Anil Sharma](https://www.linkedin.com/in/anilsharma-41b1493a7/)
+- **GitHub:** [Anilsharma0718](https://github.com/Anilsharma0718)
+
+---
+
+
 
 
