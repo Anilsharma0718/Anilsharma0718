@@ -34,4 +34,45 @@ I'm an Information Technology student passionate about software development, pro
 - Git
 - GitHub
 - VS Code
+- ---
+
+## 🚀 Projects
+
+### 1. ForestWatch – Satellite-Based Forest Monitoring & Prediction System
+**Final-Year Project**
+- Developing a satellite-based system to monitor forest vegetation health and identify deforestation and afforestation trends.
+- Uses Sentinel-2 satellite imagery and NDVI analysis to monitor vegetation changes.
+- **Tech Stack:** React.js, Python, FastAPI, MySQL, Scikit-learn, Google Earth Engine.
+- **My Role:** Backend Development and AI Integration.
+
+### 2. StockFlow – Enterprise Inventory & Order Management System
+**In Progress**
+- Building a backend application using Java and Spring Boot.
+- Planned features: Product management, inventory tracking, order processing, and REST APIs.
+- **Tech Stack:** Java, Spring Boot, MySQL.
+
+### 3. Library Management System
+- Developed using Java.
+- Focused on managing library books and basic library operations.
+
+### 4. Simple Expense Tracker
+- Developed using Java.
+- Helps record and manage personal expenses.
+- ---
+
+## 🎓 Education
+
+**B.Tech – Information Technology**  
+G.H. Raisoni College of Engineering  
+2023 – 2027
+
+## 📜 Certifications
+
+- Data Structures & Algorithms in Java – Apna College
+- Frontend Development
+- MySQL
+
+---
+
+
 
