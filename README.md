@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Anil Sharma 👋
 
-<!--
-**Anilsharma0718/Anilsharma0718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Java Backend Developer | B.Tech Information Technology
 
-Here are some ideas to get you started:
+I'm an Information Technology student passionate about software development, problem-solving, and building reliable backend applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Programming: Java, C++, SQL
+- 🧠 Core Concepts: Data Structures & Algorithms, OOP
+- 🗄️ Database: MySQL
+- 🌱 Currently learning: Spring Boot, REST APIs, and backend system development
+- 🎯 Goal: Build scalable, maintainable, and industry-oriented software applications.
+- ---
+
+## 🛠️ Technical Skills
+
+**Programming Languages**
+- Java and basic python
+  
+**Backend & Database**
+- MySQL
+- SQL
+- Currently learning Spring Boot and REST APIs
+
+**Core Computer Science**
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- Database Management Systems (DBMS)
+
+**Web Technologies**
+- HTML
+- CSS
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+
